@@ -1,26 +1,43 @@
-### Hi there 👋 
-<!-- 안녕하세요, 김학현Kim Hakhyeon 입니다
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbboodd%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  Hi :) I'm <b>Hakhyeon</b>. I'm majoring in Computer Science, <br/>
+  and interested in <b>Back-end Development</b>. <br/>
+</p>
 
+---
+
+<h3 align="center"><b>Contact</b></h3>
+<p align="center">
+<a href="mailto:gkrgus9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+</p>
+
+<h3 align="center"><b>Skills</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?&style=flat-square&logo=Java&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Spring%20-%236DB33F?&style=flat-square&logo=Spring&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
+  <br/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp
+</p>
+
+---
+
+<div align="center"> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbboodd%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 <!--![bboodd's github stats](https://github-readme-stats.vercel.app/api?username=bboodd&show_icons=true) -->
 
-### Skill
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboodd&layout=compact&theme=dark) -->
 
-- Language: 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
-<!--![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=bboodd)](https://solved.ac/bboodd)
 
-- Backend:
-![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboodd&layout=compact&theme=dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bboodd)](https://solved.ac/bboodd)
+</div>
 
 
 <!--
