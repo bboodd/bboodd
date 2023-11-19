@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbboodd%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<!--![bboodd's github stats](https://github-readme-stats.vercel.app/api?username=bboodd&show_icons=true)-->
+<!--![bboodd's github stats](https://github-readme-stats.vercel.app/api?username=bboodd&show_icons=true) -->
 
 ### Skill
 
@@ -16,6 +16,11 @@
 - Backend:
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboodd&layout=compact&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bboodd)](https://solved.ac/bboodd)
 
 
 <!--
