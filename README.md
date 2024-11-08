@@ -16,13 +16,17 @@
 
 <h3 align="center"><b>Skills</b></h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?&style=flat-square&logo=Java&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Spring%20-%236DB33F?&style=flat-square&logo=Spring&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?&style=for-the-badge&logo=Java&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Spring%20-%236DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> &nbsp
   <br/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/> &nbsp
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> &nbsp
 </p>
 
 ---
