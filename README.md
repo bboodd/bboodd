@@ -11,7 +11,7 @@
 
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
-<a href="mailto:gkrgus9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a href="mailto:gkrgus9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="center"><b>Skills</b></h3>
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/> &nbsp
   <br/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20RDS-FF9900?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"/> &nbsp
 </p>
 
 ---
